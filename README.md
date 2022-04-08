@@ -1,10 +1,10 @@
 # Julien's NYC Contract Killer
 
-### I really appreciate the work of Andy Clarke and Stuff & Nonsense Ltd. for crafting [the original killer contract](https://stuffandnonsense.co.uk/projects/contract-killer/).  This Contract is pretty close to straight up copied from Sam Sycamore's California Contract Killer for my personal purposes.  Big Thanks to Samuel Sycamore for all the thought he put into his version.
+### This Contract is pretty close to straight up copied from Sam Sycamore's California Contract Killer for my personal purposes.  Big Thanks to Samuel Sycamore for all the thought and energy he put into his version, which can be found here: [Sam Sycamore's California Contract Killer](https://github.com/samuelsycamore/contract-killer).  Sam's Version is based on the work of Andy Clarke and Stuff & Nonsense Ltd. who crafted [the original killer contract](https://stuffandnonsense.co.uk/projects/contract-killer/).  
 
-#### This edit reflects the kind of language that feels more appropriate to me as someone who resides in the Brooklyn, NY. I have also included specific text to reflect the additional services that I offer. Mileage may vary!
+#### This edit reflects the kind of language that feels appropriate to me as someone who resides in the Brooklyn, NY. I have also included specific text to reflect the additional services that I offer.
 
-##### Shout-out to all the homies from #100devs! I hope you find this helpful!
+##### Shout-out to all the #100Devs Community!  I wouldn't be here without y'all.
 
 
 # The contract
