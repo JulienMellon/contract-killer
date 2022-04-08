@@ -1,10 +1,8 @@
-# California Contract Killer
+# Julien's NYC Contract Killer
 
-### I really appreciate the work of Andy Clarke and Stuff & Nonsense Ltd. for crafting [the original killer contract](https://stuffandnonsense.co.uk/projects/contract-killer/).
+### I really appreciate the work of Andy Clarke and Stuff & Nonsense Ltd. for crafting [the original killer contract](https://stuffandnonsense.co.uk/projects/contract-killer/).  This Contract is pretty close to straight up copied from Sam Sycamore's California Contract Killer for my personal purposes.  Big Thanks to Samuel Sycamore for all the thought he put into his version.
 
-#### That said, I don't love some of the more cheeky British humor baked in, and there are minor elements of the phrasing and grammar (plus spelling) that I would never use as an American.
-
-#### This edit reflects the kind of language that feels more appropriate to me as someone who resides in the Bay Area, California. I have also included specific text to reflect the additional services that I offer. Your mileage may vary!
+#### This edit reflects the kind of language that feels more appropriate to me as someone who resides in the Brooklyn, NY. I have also included specific text to reflect the additional services that I offer. Mileage may vary!
 
 ##### Shout-out to all the homies from #100devs! I hope you find this helpful!
 
@@ -16,7 +14,7 @@
 ## Summary:
 I will always do my best to fulfill your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong.
 
-In this contract you won’t find any complicated legal terms or long passages of unreadable text. I would never want to trick you into signing something that you might later regret. What I do want is what’s best for both parties, now and in the future.
+In this contract you won’t find any complicated legal terms or long passages of unreadable text. I would never want to trick you into signing something that you might later regret. What I do want is what’s best for both parties, now and in the future. 
 
 In short;
 
@@ -29,6 +27,8 @@ For the estimated total price of [total] as outlined in our previous corresponde
 **You**: You have the authority to enter into this contract on behalf of yourself, your company or your organization. You will give me the assets and information that I tell you I need to complete the project. You’ll do this when I ask and provide it in the formats I ask for. You’ll review my work, provide feedback and approval in a timely manner too. We will both be bound by dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
 
 **Me**: I have the experience and ability to do everything I’ve discussed with you and I will do it all in a professional and timely manner. I will do my best to meet every deadline that’s set, and I will maintain the confidentiality of everything you give me.
+
+By signing this contract you agree to the following:
 
 ## Design
 I create designs that adapt to the capabilities of many devices and screen sizes. I create them iteratively using HTML and CSS, and it would be a poor use of my time to mock up every template as a static visual. I may use visuals to indicate a creative direction (color, texture and typography).
@@ -44,7 +44,7 @@ Unless agreed separately, I am not responsible for inputting text or images into
 You should supply graphic files in an editable, vector digital format. You should supply photographs in a high resolution digital format. If you choose to buy stock photographs, I can suggest stock libraries. If you’d like me to search for photographs for you, I can provide a separate estimate.
 
 ## HTML, CSS and JavaScript
-I deliver pages developed from HTML markup, CSS stylesheets for styling and JavaScript for behavior.
+I deliver pages developed using HTML markup, CSS stylesheets for styling, and JavaScript for behavior.
 
 ## Browser testing
 Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person’s experience of a design should be appropriate to the capabilities of a browser or device.
@@ -71,7 +71,7 @@ I do not guarantee improvements to your website’s search engine ranking, but t
 I do not want to limit your ability to change your mind. The price at the beginning of this contract is based on the amount of time that I estimate I'll need to accomplish everything you’ve told me you want to achieve, but I'm happy to be flexible. If you want to change your mind or add anything new, that won’t be a problem as I will provide a separate estimate for the additional time.
 
 ## Legal stuff
-I will carry out my work in accordance with good industry practice and at the standard expected from a suitably qualified person with relevant experience. That said, I can’t guarantee that my work will be error-free and so I can’t be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if you’ve advised me of them.
+I will carry out my work in accordance with good industry practice and at the standard expected from a suitably qualified person with relevant experience. That said, I cannot guarantee that my work will be error-free and so I can’t be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if you’ve advised me of them.
 
 Your liability to me will also be limited to the amount of fees payable under this contract and you won’t be liable to me or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if I’ve advised you of them.
 
@@ -104,11 +104,11 @@ I reserve the right to charge interest on all overdue debts at the rate of [perc
 ## The not-so-small print
 Neither of us can transfer this contract to anyone else without the other’s permission.
 
-We both agree that we’ll adhere to all relevant laws and regulations in relation to our activities under this contract and not cause the other to breach any relevant laws or regulations.
+We both agree that we’ll adhere to all relevant laws and regulations in relation to our activities under this contract and not cause the other to breach any relevant laws or regulations.  We both agree that this contract shall be governed under the laws of The State of New York and any disputes will be settled in the State of New York.
 
 This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
 
-Although the language is simple, the intentions are serious and this contract is a legally binding document.
+Although the language of this contract is simple, the intentions are serious and this contract is a legally binding document.
 
 ## The dotted line
 Signed by [company name]
